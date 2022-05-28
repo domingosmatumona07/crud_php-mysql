@@ -73,15 +73,8 @@
                 <?php } ?>
             </tbody>
         </table>
-
-        
     </section>
 
     <script src="./js/bootstrap.min.js"></script>
-    <script src="./js/magnify/jquery.magnific-popup.min.js"></script>
-    <script src="./js/bootstrap.bundle.js"></script>
-    <script src="./js/bootstrap.bundle.js.map"></script>
-    <script src="./js/jquery.magnific-popup.min.js"></script>
-    <script src="./js/main.js"></script>
 </body>
 </html>
